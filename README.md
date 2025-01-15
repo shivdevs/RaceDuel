@@ -109,5 +109,5 @@ g++ -o raceduel raceduel.cpp card.cpp tuning.cpp driver.cpp upgrades.cpp player.
 
 ## Author
 
-**Harshiv Mistry**  
+***Harshiv Mistry***
 Project Date: 10-29-2024
