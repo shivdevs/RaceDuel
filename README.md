@@ -95,7 +95,13 @@ The first player to win five races is declared the champion.
 1. Clone the repository:
 ```bash
 git clone <repository-url>
+```
+2. Compile:
+```
 g++ -o raceduel raceduel.cpp card.cpp tuning.cpp driver.cpp upgrades.cpp player.cpp game.cpp -std=c++11
+```
+3. Run:
+```
 ./raceduel
 ```
 
