@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: card.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of the Card class which is the base class for the core hierarchy.
 
@@ -12,7 +12,7 @@
  * basic exception handling ensures robustness for invalid card types and ranges.
  */
 
-#include "harshiv_mistry_cards.h"
+#include "cards.h"
 
 //using namespace std;
 //default constructor

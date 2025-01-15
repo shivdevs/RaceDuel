@@ -1,6 +1,7 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: player.h
-// // This file contains the class definition for the players that will be playing the game as well as a Game class.
+// Author: Harshiv Mistry
+// Date: 10-29-2024
+// 
+// This file contains the class definition for the players that will be playing the game as well as a Game class.
 
 /*
  *  ---OVERVIEW---
@@ -21,7 +22,7 @@
  */
 
 
-#include "harshiv_mistry_decks.h"	//<-- Decks defined there
+#include "decks.h"	//<-- Decks defined there
 
 
 /* The Player class represents a single player in the RaceDuel Game in which

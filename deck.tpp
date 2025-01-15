@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: decks.tpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of the Node and Deck class that is essentially the DLL of cards 
 /*
@@ -21,8 +21,8 @@
  */
 
 
-#ifndef HARSHIV_MISTRY_DECK_TPP
-#define HARSHIV_MISTRY_DECK_TPP
+#ifndef DECK_TPP
+#define DECK_TPP
 
 
 /********** Node Class Implementatiuon *******************/

@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: driver.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of Driver class which is a specialized version of Card class.
 
@@ -18,7 +18,7 @@
  * the handling of dynamic content and improving overall reliability.
  */
 
-#include "harshiv_mistry_cards.h"
+#include "cards.h"
 
 // Default constructor
 Driver::Driver() : description(""), acceleration(0), handling(0), braking(0) {}

@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall, Program #2
-// FileName: raceduel.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file acts as the client program hosting/using the RaceDuel Game.
 
@@ -10,7 +10,7 @@
  * and unexpected situation arises. 
  */
 
-#include "harshiv_mistry_player.h"
+#include "player.h"
 
 int main()
 {

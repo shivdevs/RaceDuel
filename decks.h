@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: decks.h
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of the Node and Deck class that is essentially the DLL of cards 
 // used by the RaceDuel Game.
@@ -25,9 +25,9 @@
  */
 
 
-#ifndef HARSHIV_MISTRY_DECKS_H
-#define HARSHIV_MISTRY_DECKS_H
-#include "harshiv_mistry_cards.h" 	// <-- Core Hierarchy defined there.
+#ifndef DECKS_H
+#define DECKS_H
+#include "cards.h" 	// <-- Core Hierarchy defined there.
 
 /* The `Node` class is a templated node structure designed for a doubly linked list.
  * It stores a data element of a generic type `T` and maintains pointers to both the
@@ -84,5 +84,5 @@ class Deck
 		void copy(Node<T> * src, Node<T> *& dest);	//makes a deep copy of the src.
 };
 
-#include "harshiv_mistry_deck.tpp"
+#include "deck.tpp"
 #endif 

@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: game.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the Game class implementation that makes the entire project come together.
 
@@ -13,7 +13,7 @@
  * scores, and conducting races, with error handling for invalid inputs.
  */
 
-#include "harshiv_mistry_player.h"
+#include "player.h"
 
 //default constructor
 Game::Game(): score_first(0), score_second(0)

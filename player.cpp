@@ -1,9 +1,9 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: player.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation for the player class.
 
-#include "harshiv_mistry_player.h"
+#include "player.h"
 
 /* The Player class includes functions to build decks, draw cards, build a car, and display each deck.
  * It also provides overloaded operators for comparison of players based on car power, as well as input

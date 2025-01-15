@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: upgrades.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of Upgrades class which is a specialized version of Card class.
 
@@ -18,7 +18,7 @@
  * simplified code for setting and modifying upgrade descriptions.
  */
 
-#include "harshiv_mistry_cards.h"
+#include "cards.h"
 
 // Default constructor
 Upgrades::Upgrades() : description(""), acceleration(0), handling(0), braking(0) {}

@@ -1,5 +1,5 @@
-// Harshiv Mistry, 10-29-2024, CS302 Fall 2024, Program #2
-// FileName: cards.h
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the class definitions for the cards and the derived classes from cards (the core hierarchy)
 
